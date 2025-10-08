@@ -1,0 +1,20 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map(page => ({
+    params: { 
+      slug: page.slug === 'index' ? undefined : page.slug 
+    },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+
+// Get the raw content of the file
+const rawContent = await page.body;
+---
+
+<Fragment set:html={rawContent} />
