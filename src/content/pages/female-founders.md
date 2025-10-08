@@ -14,6 +14,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
     <meta name="viewport" content="width=device-width, initial-scale=1">
     	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<title>Female Founders Progress in Venture Capital | Embroker</title><link rel="preload" data-rocket-preload as="image" href="https://website.embroker.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png" fetchpriority="high">
+
 <meta name="description" content="The venture capital gender gap is no secret. Here’s a look top female founders VC funds, and advice from women in the startup world."/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="https://www.embroker.com/blog/female-founders/" />
@@ -70,7 +71,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 				_hsq.push(["setContentType", "blog-post"]);
 			</script>
 			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
-			
+
 		<link rel="apple-touch-icon" sizes="180x180" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/apple-touch-icon.png?20220928">
 		<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-32x32.png?20220928">
 		<link rel="shortcut icon" type="image/png" sizes="16x16" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-16x16.png?20220928">
@@ -88,8 +89,9 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 			<meta property="og:image" content="" />
 		
 		<style>
+
 .sidebar-related, .sidebar {
-    display: none;
+display: none;
 }
 .pr-5 {
 padding-right: 0px !important;
@@ -99,375 +101,370 @@ margin-left: auto !important;
 margin-right: auto !important;
 }
 .cards-section {
-    width: 710px !important;
-    display: flex;
-    flex-direction: row !important;
-    flex-wrap: wrap !important;
- }
- 
- @media screen and (max-width: 760px) {
-     .cards-section {
-         width: 100% !important;
-         flex-direction: column !important;
-     }
- }
- 
- .founder-card {
-     will-change: transform, opacity !important;
-     height: 325px !important;
-     width: 325px !important;
-     margin-bottom: 20px !important;
-     margin-left: 10px !important;
-     margin-right: 10px !important;
-     perspective: 1000px !important;
- }
-
- @media screen and (max-width: 400px) {
-    .founder-card {
-        width: 280px !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
+width: 710px !important;
+display: flex;
+flex-direction: row !important;
+flex-wrap: wrap !important;
 }
- 
- @media screen and (max-width: 325px) {
-     .founder-card {
-         width: 280px !important;
-         margin-left: auto !important;
-         margin-right: auto !important;
-     }
- }
- 
- .founder-card-inner {
-     position: relative !important;
-     width: 100% !important;
-     height: 100% !important;
-     text-align: center !important;
-     transition: transform 0.8s !important;
-     transform-style: preserve-3d !important;
- }
- 
- .founder-card-inner.active {
-     transform: rotateY(180deg) !important;
- }
- 
- .founder-card-front, .founder-card-flipped {
-     position: absolute !important;
-     width: 100% !important;
-     height: 100% !important;
-     -webkit-backface-visibility: hidden !important; /* Safari */
-     backface-visibility: hidden !important;
- }
- 
- .founder-card-flipped {
-     transform: rotateY(180deg) !important;
- }
- 
- .ff-image-mobile {
-     display: none;
- }
- 
- .ff-image-desktop {
-     display: block;
- }
- 
- @media screen and (max-width: 500px) {
-     .ff-image-mobile {
-         display: block;
-     }
-     
+
+@media screen and (max-width: 760px) {
+.cards-section {
+width: 100% !important;
+flex-direction: column !important;
+}
+}
+
+.founder-card {
+will-change: transform, opacity !important;
+height: 325px !important;
+width: 325px !important;
+margin-bottom: 20px !important;
+margin-left: 10px !important;
+margin-right: 10px !important;
+perspective: 1000px !important;
+}
+
+@media screen and (max-width: 400px) {
+.founder-card {
+width: 280px !important;
+margin-left: auto !important;
+margin-right: auto !important;
+}
+}
+
+@media screen and (max-width: 325px) {
+.founder-card {
+width: 280px !important;
+margin-left: auto !important;
+margin-right: auto !important;
+}
+}
+
+.founder-card-inner {
+position: relative !important;
+width: 100% !important;
+height: 100% !important;
+text-align: center !important;
+transition: transform 0.8s !important;
+transform-style: preserve-3d !important;
+}
+
+.founder-card-inner.active {
+transform: rotateY(180deg) !important;
+}
+
+.founder-card-front, .founder-card-flipped {
+position: absolute !important;
+width: 100% !important;
+height: 100% !important;
+-webkit-backface-visibility: hidden !important; /* Safari */
+backface-visibility: hidden !important;
+}
+
+.founder-card-flipped {
+transform: rotateY(180deg) !important;
+}
+
+.ff-image-mobile {
+display: none;
+}
+
+.ff-image-desktop {
+display: block;
+}
+
+@media screen and (max-width: 500px) {
+.ff-image-mobile {
+display: block;
+}
+
      .ff-image-desktop {
          display: none;
      }
- }
 
+}
 
- 
 .interactive-map {
-    padding-top: 40px !important;
-    padding-bottom: 20px !important;
-    border-top: 2px solid #e7ebf0 !important;
-    border-bottom: 2px solid #e7ebf0 !important;
+padding-top: 40px !important;
+padding-bottom: 20px !important;
+border-top: 2px solid #e7ebf0 !important;
+border-bottom: 2px solid #e7ebf0 !important;
 }
 
 .map-info-container {
-    display: block;
-    position: relative !important;
-    z-index: 3 !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    position: relative !important;
-    margin-top: 40px !important;
-    width: max-content !important;
+display: block;
+position: relative !important;
+z-index: 3 !important;
+margin-left: auto !important;
+margin-right: auto !important;
+position: relative !important;
+margin-top: 40px !important;
+width: max-content !important;
 }
 
 .map-info-carrot {
-    position: absolute !important;
-    width: 0 !important;
-    height: 0 !important;
-    bottom: -10px !important;
-    left: 45% !important;
-    border-left: 10px solid transparent !important;
-    border-right: 10px solid transparent !important;
-    border-top: 10px solid #02024E !important;
+position: absolute !important;
+width: 0 !important;
+height: 0 !important;
+bottom: -10px !important;
+left: 45% !important;
+border-left: 10px solid transparent !important;
+border-right: 10px solid transparent !important;
+border-top: 10px solid #02024E !important;
 }
-
 
 .map-capital {
-    padding-top: 0px !important;
-    margin-bottom: 3px !important;
+padding-top: 0px !important;
+margin-bottom: 3px !important;
 }
-
 
 @media screen and (min-width: 800px) {
 
-   .post-text {
-       position: relative !important;
-   }
+.post-text {
+position: relative !important;
+}
 
     .map-info-container {
         position: absolute !important;
         z-index: 3 !important;
         font-family: 'Calbre', sans-serif !important;
     }
+
 }
 
 .map-rank {
-    height: 45px !important;
-    width: 45px !important;
-    font-size: 25px !important;
-    font-weight: bold !important;
-    text-align: center !important;
-    background: rgb(37,229,176) !important;
-    background: linear-gradient(90deg, rgba(37,229,176,1) 0%, rgba(34,179,233,1) 49%, rgba(166,102,247,1) 100%) !important;
-    border-radius: 50% !important;
-    position: absolute !important;
-    top: -25% !important;
-    left: -10% !important;
-    color: white !important;
-    /* font-family: 'Calibre', sans-serif !important; */
+height: 45px !important;
+width: 45px !important;
+font-size: 25px !important;
+font-weight: bold !important;
+text-align: center !important;
+background: rgb(37,229,176) !important;
+background: linear-gradient(90deg, rgba(37,229,176,1) 0%, rgba(34,179,233,1) 49%, rgba(166,102,247,1) 100%) !important;
+border-radius: 50% !important;
+position: absolute !important;
+top: -25% !important;
+left: -10% !important;
+color: white !important;
+/* font-family: 'Calibre', sans-serif !important; */
 }
 
 .map-name {
-    height: 32px !important;
-    width: 250px !important;
-    max-width: 250px !important;
-    background-color: #26257E !important;
-    color: white !important;
-    padding: 10px !important;
-    padding-left: 33px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    margin-bottom: 0 !important;
-    border-radius: 8px 8px 0px 0px !important;
-    font-size: 19px !important;
-    line-height: 11px !important;
-    font-weight: bold !important;
+height: 32px !important;
+width: 250px !important;
+max-width: 250px !important;
+background-color: #26257E !important;
+color: white !important;
+padding: 10px !important;
+padding-left: 33px !important;
+margin-left: auto !important;
+margin-right: auto !important;
+margin-bottom: 0 !important;
+border-radius: 8px 8px 0px 0px !important;
+font-size: 19px !important;
+line-height: 11px !important;
+font-weight: bold !important;
 }
 
 .map-content {
-    height: 82px !important;
-    width: 250px !important;
-    max-width: 250px !important;
-    background-color: #02024E !important;
-    color: white !important;
-    padding-left: 17px !important;
-    padding-right: 17px !important;
-    padding-top: 10px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    border-radius: 0px 0px 8px 8px !important;
-    font-size: 18px !important;
-    line-height: 18px !important;
+height: 82px !important;
+width: 250px !important;
+max-width: 250px !important;
+background-color: #02024E !important;
+color: white !important;
+padding-left: 17px !important;
+padding-right: 17px !important;
+padding-top: 10px !important;
+margin-left: auto !important;
+margin-right: auto !important;
+border-radius: 0px 0px 8px 8px !important;
+font-size: 18px !important;
+line-height: 18px !important;
 }
 
 .map-deals {
-    padding: 0 !important;
-    margin: 0 !important;
+padding: 0 !important;
+margin: 0 !important;
 }
 
 #map-capital, #map-deals {
-    font-weight: bold !important;
-    padding: 0 !important;
-    margin: 0 !important;
+font-weight: bold !important;
+padding: 0 !important;
+margin: 0 !important;
 }
 
 .pin-toggled {
-    display: none;
+display: none;
 }
 
 g:hover {
-    cursor: pointer !important;
+cursor: pointer !important;
 }
 
 g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
-    fill: #FF8D59 !important;
+fill: #FF8D59 !important;
 }
 
-
-
 .deal-count-graph, .vc-graph {
-    position: relative !important;
-    padding-bottom: 30px !important;
-    border-bottom: 2px solid #F6F8FB !important;
+position: relative !important;
+padding-bottom: 30px !important;
+border-bottom: 2px solid #F6F8FB !important;
 }
 
 @media screen and (max-width: 600px) {
-    .deal-count-graph svg, .vc-graph svg {
-        margin-top: 45px !important;
-    }
+.deal-count-graph svg, .vc-graph svg {
+margin-top: 45px !important;
+}
 }
 
 .big-graph-title {
-    box-sizing: border-box !important;
-    width: 100% !important;
-    padding: 12px !important;
-    margin-bottom: 30px !important;
-    margin-top: 30px !important;
+box-sizing: border-box !important;
+width: 100% !important;
+padding: 12px !important;
+margin-bottom: 30px !important;
+margin-top: 30px !important;
 }
 
 .big-graph-title p {
-    color: #172060 !important;
-    font-size: 24px !important;
-    font-weight: bold !important;
-    text-align: center !important;
-    padding: 0 !important;
+color: #172060 !important;
+font-size: 24px !important;
+font-weight: bold !important;
+text-align: center !important;
+padding: 0 !important;
 }
 
 .graph-key {
-    display: flex;
-    flex-direction: row !important;
-    justify-content: flex-start !important;
-    margin-bottom: 30px !important;
-    margin-left: 40px !important;
+display: flex;
+flex-direction: row !important;
+justify-content: flex-start !important;
+margin-bottom: 30px !important;
+margin-left: 40px !important;
 }
 
 .graph-key p {
-    padding: 5px !important;
-    padding-left: 0 !important;
-    font-size: 18px !important;
-    font-weight: 500 !important;
-    color: #172060 !important;
-    text-align: left !important;
+padding: 5px !important;
+padding-left: 0 !important;
+font-size: 18px !important;
+font-weight: 500 !important;
+color: #172060 !important;
+text-align: left !important;
 }
 
 .female-key {
-    border-bottom: 3px solid #7FD7F1 !important;
-    margin-right: 20px !important;
+border-bottom: 3px solid #7FD7F1 !important;
+margin-right: 20px !important;
 }
 
 .mixed-key {
-    border-bottom: 3px solid #B45EF9 !important;
+border-bottom: 3px solid #B45EF9 !important;
 }
 
 .graph-info-box-year {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-    font-weight: bold !important;
+margin-bottom: 0 !important;
+padding-bottom: 0 !important;
+font-weight: bold !important;
 }
 
 .graph-info-box-deal-count {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
+margin-top: 0 !important;
+padding-top: 0 !important;
 }
 
 .graph-info-box-female, .graph-info-box-mixed-gender, .graph-info-box-female-vc, .graph-info-box-mixed-gender-vc {
-    box-sizing: border-box !important;
-    width: 170px !important;
-    height: 75px !important;
-    border-radius: 5px !important;
-    background-color: #DBDAEB !important;
-    padding: 12px !important;
-    display: none;
-    position: absolute !important;
-    z-index: 3 !important;
+box-sizing: border-box !important;
+width: 170px !important;
+height: 75px !important;
+border-radius: 5px !important;
+background-color: #DBDAEB !important;
+padding: 12px !important;
+display: none;
+position: absolute !important;
+z-index: 3 !important;
 }
 
 @media screen and (max-width: 600px) {
-    .graph-info-box-female, .graph-info-box-female-vc {
-        z-index: 4 !important;
-    }
+.graph-info-box-female, .graph-info-box-female-vc {
+z-index: 4 !important;
+}
 }
 
 .graph-info-box-female span, .graph-info-box-female-vc span {
-    font-size: 18px !important;
-    color: black !important;
-    display: block;
-    margin-top:  0 !important;
+font-size: 18px !important;
+color: black !important;
+display: block;
+margin-top:  0 !important;
 }
 
 #female-deal-count, #female-vc, #mixed-gender-deal-count, #mixed-gender-vc {
-    font-size: 14px !important;
-    font-weight: bold !important;
-    color: black !important;
-    display: inline;
-    margin-top:  0 !important;
+font-size: 14px !important;
+font-weight: bold !important;
+color: black !important;
+display: inline;
+margin-top:  0 !important;
 }
 
-.graph-info-box-female p, .graph-info-box-mixed-gender p, .graph-info-box-female-vc p, .graph-info-box-mixed-gender-vc p {
-    font-weight: 600 !important;
-    font-size: 14px !important;
-    line-height: 14px !important;
-    color: #172060 !important;
-    padding-bottom: 2px !important;
-    padding-top: 5px !important;
-    margin-top:  0 !important;
+.graph-info-box-female p, .graph-info-box-mixed-gender p, .graph-info-box-female-vc p, .graph-info-box-mixed-gender-vc
+p {
+font-weight: 600 !important;
+font-size: 14px !important;
+line-height: 14px !important;
+color: #172060 !important;
+padding-bottom: 2px !important;
+padding-top: 5px !important;
+margin-top:  0 !important;
 }
 
 .female {
-    padding-bottom: 0px !important;
-    border-bottom: 3px solid #1AB8E8 !important;
-    font-weight: bold !important;
+padding-bottom: 0px !important;
+border-bottom: 3px solid #1AB8E8 !important;
+font-weight: bold !important;
 }
 
 .mixed-gender {
-    padding-bottom: 5px !important;
-    border-bottom: 3px solid #B45EF9 !important;
-    font-weight: bold !important;
+padding-bottom: 5px !important;
+border-bottom: 3px solid #B45EF9 !important;
+font-weight: bold !important;
 }
 
 .graph-info-box-span {
-    font-weight: bold !important;
-    font-size: 14px !important;
-    line-height: 14px !important;
-    color: #172060 !important;
-    padding-bottom: 50px !important;
-    padding-top:  0 !important;
-    margin-top: -35px !important;
+font-weight: bold !important;
+font-size: 14px !important;
+line-height: 14px !important;
+color: #172060 !important;
+padding-bottom: 50px !important;
+padding-top:  0 !important;
+margin-top: -35px !important;
 }
 
 .bullet-big {
-    display: none;
+display: none;
 }
 
-
-
 .pie-chart-container {
-    position: relative !important;
-    display: flex;
-    flex-direction: row !important;
-    justify-content: space-evenly !important;
-    align-items: center !important;
-    box-sizing: border-box !important;
-    padding-top: 20px !important;
-    padding-bottom: 20px !important;
-    margin-top: 50px !important;
-    margin-bottom: 50px !important;
-    border-top: 2px solid #e7ebf0 !important;
-    border-bottom: 2px solid #e7ebf0 !important;
+position: relative !important;
+display: flex;
+flex-direction: row !important;
+justify-content: space-evenly !important;
+align-items: center !important;
+box-sizing: border-box !important;
+padding-top: 20px !important;
+padding-bottom: 20px !important;
+margin-top: 50px !important;
+margin-bottom: 50px !important;
+border-top: 2px solid #e7ebf0 !important;
+border-bottom: 2px solid #e7ebf0 !important;
 }
 
 .chart-flex {
-    display: flex;
-    flex-direction: row !important;
-    justify-content: space-between !important;
-    align-items: center !important;
+display: flex;
+flex-direction: row !important;
+justify-content: space-between !important;
+align-items: center !important;
 }
 
 @media screen and (max-width: 760px) {
-    .pie-chart-container {
-        flex-direction: column !important;
-    }
+.pie-chart-container {
+flex-direction: column !important;
+}
 
     .pie-charts {
         height: 301px !important;
@@ -492,68 +489,66 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
         height: 115px !important;
         display: block;
     }
-}
 
+}
 
 @media screen and (max-width: 350px) {
-    .pie-charts > .pie-chart-single {
-        width: 200px !important;
-        height: 300px !important;
-    }
+.pie-charts > .pie-chart-single {
+width: 200px !important;
+height: 300px !important;
+}
 }
 
-
-
 .chart-key {
-    align-self: baseline !important;
-    width: max-content !important;
+align-self: baseline !important;
+width: max-content !important;
 }
 
 .chart-key p {
-    font-size: 18px !important;
-    color: #172060 !important;
-    font-weight: 600 !important;
-    padding-bottom: 0 !important;
-    padding-top: 5px !important;
-    width: max-content !important;
+font-size: 18px !important;
+color: #172060 !important;
+font-weight: 600 !important;
+padding-bottom: 0 !important;
+padding-top: 5px !important;
+width: max-content !important;
 }
 
 .angel-p {
-    border-bottom: 3px solid #B45EF9 !important;
+border-bottom: 3px solid #B45EF9 !important;
 }
 
 .early-p {
-    border-bottom: 3px solid #1AB8E8 !important;
+border-bottom: 3px solid #1AB8E8 !important;
 }
 
 .late-p {
-    border-bottom: 3px solid #21E6AD !important;
+border-bottom: 3px solid #21E6AD !important;
 }
 
 .arrow img {
-    width: 44px !important;
-    max-width: 44px !important;
-    height: 44px !important;
-    cursor: pointer !important;
+width: 44px !important;
+max-width: 44px !important;
+height: 44px !important;
+cursor: pointer !important;
 }
 
 /* .arrow img:focus {
-    border: 1px solid #798bff !important;
+border: 1px solid #798bff !important;
 } */
 
 .pie-charts {
-    height: 351px !important;
-    overflow: hidden !important;
+height: 351px !important;
+overflow: hidden !important;
 }
 
 .pie-charts > .pie-chart-single {
-    width: 300px !important;
-    display: none;
+width: 300px !important;
+display: none;
 }
 
 .founder-illustration {
-    min-width: 105px !important;
-    align-self: flex-end !important;
+min-width: 105px !important;
+align-self: flex-end !important;
 }
 
 @-moz-document url-prefix() {
@@ -561,67 +556,70 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
     .founder-illustration {
         width: 20% !important;
     }
+
 }
 
 @media screen and (max-width: 789px) {
-    .founder-illustration {
-        min-width: 70px !important;
-    }
+.founder-illustration {
+min-width: 70px !important;
+}
 }
 
 .tool-tip-container {
-    position: absolute !important;
-    display: none;
-    top: 50%;
-    left: 60%;
-    width: 160px !important;
-    height: 95px !important;
-    border: 3px solid #e7ebf0 !important;
-    border-radius: 5px !important;
-    background-color: #f6f8fb !important;
-    z-index: 2 !important;
-    box-sizing: border-box !important;
-    padding: 10px 5px 10px 5px !important;
+position: absolute !important;
+display: none;
+top: 50%;
+left: 60%;
+width: 160px !important;
+height: 95px !important;
+border: 3px solid #e7ebf0 !important;
+border-radius: 5px !important;
+background-color: #f6f8fb !important;
+z-index: 2 !important;
+box-sizing: border-box !important;
+padding: 10px 5px 10px 5px !important;
 }
 
 #tool-tip-title {
-    border-bottom: 3px solid #B45EF9;
-    margin-bottom: 5px !important;
-    font-weight: bold !important;
+border-bottom: 3px solid #B45EF9;
+margin-bottom: 5px !important;
+font-weight: bold !important;
 }
 
 .tool-tip-container p {
-    padding: 0 !important;
-    font-size: 14px !important;
-    line-height: 22px !important;
-    margin: 0 !important;
-    font-weight: normal !important;
+padding: 0 !important;
+font-size: 14px !important;
+line-height: 22px !important;
+margin: 0 !important;
+font-weight: normal !important;
 }
 
 .tool-tip-var {
-    font-weight: 600 !important;
+font-weight: 600 !important;
 }
 
 *:focus {
-    outline: 0 !important;
+outline: 0 !important;
 }
 
 *:focus:not(:focus-visible) {
-    outline: 0 !important;
+outline: 0 !important;
 }
 
 *:focus-visible {
-    outline: black solid 10px
+outline: black solid 10px
 }
 
 .arrow:focus {
-    transform: scale(1.2) !important;
+transform: scale(1.2) !important;
 }
 
 .pie-chart-single path:focus {
-    opacity: .70 !important;
+opacity: .70 !important;
 }
-</style><noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><link rel="preload" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
+</style><noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>
+.lazyload{background-image:none !important;}.lazyload:before{background-image:none !
+important;}</style><link rel="preload" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/fonts/bricolage-grotesque/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="https://website.embroker.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
@@ -671,44 +669,41 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                                                                                                                                                                                 
         <li class="tw-relative">
-            
-
-
 
 <button class="
-        tw-flex
-        tw-items-center
-        tw-text-nowrap
-        tw-space-x-2
-        tw-px-4 tw-py-2
-        tw-font-serif
-        font-subtitle-2
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    "  
-     role="button"
-     data-menu="menu-35788"
-     data-menu-active-class="tw-bg-violet-100 hover:tw-bg-violet-100"
-  data-is-top-level >
-	<span>Industries</span>
-			<i
-            class="ph ph-caret-down "
-            data-inversify="true"
-        ></i>
-	</button>
-                        <div
-                id="menu-35788"
-                class="tw-absolute tw-top-full tw-hidden"
-            >
-                <nav class="dropdown">
-                    <ul class="tw-text-ui-400">
-                                                                                <li>
-                                <a
-                                    
+tw-flex
+tw-items-center
+tw-text-nowrap
+tw-space-x-2
+tw-px-4 tw-py-2
+tw-font-serif
+font-subtitle-2
+tw-rounded-none
+hover:tw-bg-violet-50
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+"  
+role="button"
+data-menu="menu-35788"
+data-menu-active-class="tw-bg-violet-100 hover:tw-bg-violet-100"
+data-is-top-level >
+<span>Industries</span>
+<i
+class="ph ph-caret-down "
+data-inversify="true"
+></i>
+</button>
+<div
+id="menu-35788"
+class="tw-absolute tw-top-full tw-hidden"
+>
+<nav class="dropdown">
+<ul class="tw-text-ui-400">
+<li>
+<a
+
                                     href="https://www.embroker.com/startup/"
                                     class="
                                         font-body-1
@@ -897,44 +892,41 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                                                                                                                                                                                                                                             
         <li class="tw-relative">
-            
-
-
 
 <button class="
-        tw-flex
-        tw-items-center
-        tw-text-nowrap
-        tw-space-x-2
-        tw-px-4 tw-py-2
-        tw-font-serif
-        font-subtitle-2
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    "  
-     role="button"
-     data-menu="menu-35789"
-     data-menu-active-class="tw-bg-violet-100 hover:tw-bg-violet-100"
-  data-is-top-level >
-	<span>Coverages</span>
-			<i
-            class="ph ph-caret-down "
-            data-inversify="true"
-        ></i>
-	</button>
-                        <div
-                id="menu-35789"
-                class="tw-absolute tw-top-full tw-hidden"
-            >
-                <nav class="dropdown">
-                    <ul class="tw-text-ui-400">
-                                                                                <li>
-                                <a
-                                    
+tw-flex
+tw-items-center
+tw-text-nowrap
+tw-space-x-2
+tw-px-4 tw-py-2
+tw-font-serif
+font-subtitle-2
+tw-rounded-none
+hover:tw-bg-violet-50
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+"  
+role="button"
+data-menu="menu-35789"
+data-menu-active-class="tw-bg-violet-100 hover:tw-bg-violet-100"
+data-is-top-level >
+<span>Coverages</span>
+<i
+class="ph ph-caret-down "
+data-inversify="true"
+></i>
+</button>
+<div
+id="menu-35789"
+class="tw-absolute tw-top-full tw-hidden"
+>
+<nav class="dropdown">
+<ul class="tw-text-ui-400">
+<li>
+<a
+
                                     href="https://www.embroker.com/coverage/business-owners-policy/"
                                     class="
                                         font-body-1
@@ -1192,79 +1184,68 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                 
         <li class="tw-relative">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-text-nowrap
-        tw-space-x-2
-        tw-px-4 tw-py-2
-        tw-font-serif
-        font-subtitle-2
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/about/  data-is-top-level >
-	<span>About Us</span>
-	</a>
-                    </li>
-            
-                
+tw-flex
+tw-items-center
+tw-text-nowrap
+tw-space-x-2
+tw-px-4 tw-py-2
+tw-font-serif
+font-subtitle-2
+tw-rounded-none
+hover:tw-bg-violet-50
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/about/  data-is-top-level >
+<span>About Us</span>
+</a>
+</li>
+
         <li class="tw-relative">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-text-nowrap
-        tw-space-x-2
-        tw-px-4 tw-py-2
-        tw-font-serif
-        font-subtitle-2
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/resources/  data-is-top-level >
-	<span>Resource Hub</span>
-	</a>
-                    </li>
-            
-                
+tw-flex
+tw-items-center
+tw-text-nowrap
+tw-space-x-2
+tw-px-4 tw-py-2
+tw-font-serif
+font-subtitle-2
+tw-rounded-none
+hover:tw-bg-violet-50
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/resources/  data-is-top-level >
+<span>Resource Hub</span>
+</a>
+</li>
+
         <li class="tw-relative">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-text-nowrap
-        tw-space-x-2
-        tw-px-4 tw-py-2
-        tw-font-serif
-        font-subtitle-2
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/claims/  data-is-top-level >
-	<span>Claims</span>
-	</a>
-                    </li>
-    </ul>            </nav>
+tw-flex
+tw-items-center
+tw-text-nowrap
+tw-space-x-2
+tw-px-4 tw-py-2
+tw-font-serif
+font-subtitle-2
+tw-rounded-none
+hover:tw-bg-violet-50
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/claims/  data-is-top-level >
+<span>Claims</span>
+</a>
+</li>
+</ul>            </nav>
 
             <div class="tw-flex tw-flex-shrink-0 tw-flex-row tw-items-center !tw-ml-0 tw-gap-2">
                 <div class="tw-hidden tw-flex-row tw-items-center tw-gap-5 @2xl:tw-flex">
@@ -1280,7 +1261,9 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
 	action="/search/"
 	role="search"
 	method="GET"
+
 >
+
 	<div
 		class="tw-h-12 tw-rounded-3xl tw-bg-ui-200 tw-py-2 tw-pl-6 tw-text-ui-500 tw-w-full"
 	>
@@ -1304,6 +1287,7 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
 			</button>
 		</div>
 	</div>
+
   </form>                        </div>
                         <button
                             class="button icon small tw-border tw-border-solid tw-border-ui-100 tw-bg-ui-100 tw-text-ui-500 hover:tw-bg-ui-200"
@@ -1364,47 +1348,44 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                                                                                                                                                                                 
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
-            
-
-
 
 <button class="
-        tw-flex
-        tw-items-center
-        tw-justify-between
-        font-subtitle-2
-        tw-my-4
-        tw-w-full
-        tw-space-x-2
-        tw-px-4
-        tw-py-4
-        tw-text-ui-500
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        hover:tw-text-violet-400
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    "  
-     role=button
-     data-menu=menu-35788
-     data-collapsible-toggle=submenu-35788
-  data-is-top-level >
-	<span>Industries</span>
-			<i
-            class="ph ph-caret-down ph-lg"
-            data-inversify="true"
-        ></i>
-	</button>
-                            <div
-                    class="tw-hidden"
-                    data-collapsible="submenu-35788"
-                >
-                    <ul class="tw-text-ui-400 tw-flex-grow fw-flex-shrink tw-overflow-y-auto">
-                                                                                <li>
-                                <a
-                                    
+tw-flex
+tw-items-center
+tw-justify-between
+font-subtitle-2
+tw-my-4
+tw-w-full
+tw-space-x-2
+tw-px-4
+tw-py-4
+tw-text-ui-500
+tw-rounded-none
+hover:tw-bg-violet-50
+hover:tw-text-violet-400
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+"  
+role=button
+data-menu=menu-35788
+data-collapsible-toggle=submenu-35788
+data-is-top-level >
+<span>Industries</span>
+<i
+class="ph ph-caret-down ph-lg"
+data-inversify="true"
+></i>
+</button>
+<div
+class="tw-hidden"
+data-collapsible="submenu-35788"
+>
+<ul class="tw-text-ui-400 tw-flex-grow fw-flex-shrink tw-overflow-y-auto">
+<li>
+<a
+
                                     href="https://www.embroker.com/startup/"
                                     class="
                                         font-subtitle-2
@@ -1616,47 +1597,44 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                                                                                                                                                                                                                                             
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
-            
-
-
 
 <button class="
-        tw-flex
-        tw-items-center
-        tw-justify-between
-        font-subtitle-2
-        tw-my-4
-        tw-w-full
-        tw-space-x-2
-        tw-px-4
-        tw-py-4
-        tw-text-ui-500
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        hover:tw-text-violet-400
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    "  
-     role=button
-     data-menu=menu-35789
-     data-collapsible-toggle=submenu-35789
-  data-is-top-level >
-	<span>Coverages</span>
-			<i
-            class="ph ph-caret-down ph-lg"
-            data-inversify="true"
-        ></i>
-	</button>
-                            <div
-                    class="tw-hidden"
-                    data-collapsible="submenu-35789"
-                >
-                    <ul class="tw-text-ui-400 tw-flex-grow fw-flex-shrink tw-overflow-y-auto">
-                                                                                <li>
-                                <a
-                                    
+tw-flex
+tw-items-center
+tw-justify-between
+font-subtitle-2
+tw-my-4
+tw-w-full
+tw-space-x-2
+tw-px-4
+tw-py-4
+tw-text-ui-500
+tw-rounded-none
+hover:tw-bg-violet-50
+hover:tw-text-violet-400
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+"  
+role=button
+data-menu=menu-35789
+data-collapsible-toggle=submenu-35789
+data-is-top-level >
+<span>Coverages</span>
+<i
+class="ph ph-caret-down ph-lg"
+data-inversify="true"
+></i>
+</button>
+<div
+class="tw-hidden"
+data-collapsible="submenu-35789"
+>
+<ul class="tw-text-ui-400 tw-flex-grow fw-flex-shrink tw-overflow-y-auto">
+<li>
+<a
+
                                     href="https://www.embroker.com/coverage/business-owners-policy/"
                                     class="
                                         font-subtitle-2
@@ -1946,99 +1924,88 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             
                 
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-justify-between
-        font-subtitle-2
-        tw-my-4
-        tw-w-full
-        tw-space-x-2
-        tw-px-4
-        tw-py-4
-        tw-text-ui-500
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        hover:tw-text-violet-400
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/about/  data-is-top-level >
-	<span>About Us</span>
-	</a>
-                    </li>
-            
-                
+tw-flex
+tw-items-center
+tw-justify-between
+font-subtitle-2
+tw-my-4
+tw-w-full
+tw-space-x-2
+tw-px-4
+tw-py-4
+tw-text-ui-500
+tw-rounded-none
+hover:tw-bg-violet-50
+hover:tw-text-violet-400
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/about/  data-is-top-level >
+<span>About Us</span>
+</a>
+</li>
+
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-justify-between
-        font-subtitle-2
-        tw-my-4
-        tw-w-full
-        tw-space-x-2
-        tw-px-4
-        tw-py-4
-        tw-text-ui-500
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        hover:tw-text-violet-400
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/resources/  data-is-top-level >
-	<span>Resource Hub</span>
-	</a>
-                    </li>
-            
-                
+tw-flex
+tw-items-center
+tw-justify-between
+font-subtitle-2
+tw-my-4
+tw-w-full
+tw-space-x-2
+tw-px-4
+tw-py-4
+tw-text-ui-500
+tw-rounded-none
+hover:tw-bg-violet-50
+hover:tw-text-violet-400
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/resources/  data-is-top-level >
+<span>Resource Hub</span>
+</a>
+</li>
+
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
-            
-
-
 
 <a class="
-        tw-flex
-        tw-items-center
-        tw-justify-between
-        font-subtitle-2
-        tw-my-4
-        tw-w-full
-        tw-space-x-2
-        tw-px-4
-        tw-py-4
-        tw-text-ui-500
-        tw-rounded-none
-        hover:tw-bg-violet-50
-        hover:tw-text-violet-400
-        data-[is-current]:tw-text-ui-500
-        data-[is-current]:tw-bg-violet-200
-        data-[is-top-level]:tw-rounded-full
-        tw-transition
-    " href=https://www.embroker.com/claims/  data-is-top-level >
-	<span>Claims</span>
-	</a>
-                    </li>
-    </ul>                <div class="tw-block @2xl:tw-hidden">
-                    <div class="tw-flex tw-flex-col tw-gap-4 tw-items-stretch">
-                            <a
-        id="main-action-header-mobile"
-        href="https://app.embroker.com/signup"
-        class="button primary"
-    >
-        Get a Quote
-    </a>
+tw-flex
+tw-items-center
+tw-justify-between
+font-subtitle-2
+tw-my-4
+tw-w-full
+tw-space-x-2
+tw-px-4
+tw-py-4
+tw-text-ui-500
+tw-rounded-none
+hover:tw-bg-violet-50
+hover:tw-text-violet-400
+data-[is-current]:tw-text-ui-500
+data-[is-current]:tw-bg-violet-200
+data-[is-top-level]:tw-rounded-full
+tw-transition
+" href=https://www.embroker.com/claims/  data-is-top-level >
+<span>Claims</span>
+</a>
+</li>
+</ul>                <div class="tw-block @2xl:tw-hidden">
+<div class="tw-flex tw-flex-col tw-gap-4 tw-items-stretch">
+<a
+id="main-action-header-mobile"
+href="https://app.embroker.com/signup"
+class="button primary"
+>
+Get a Quote
+</a>
 
                             <a
         href="https://app.embroker.com/login"
@@ -2052,6 +2019,7 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
             </div>
         </nav>
     </div>
+
 </div><!-- BLOCK __global-elements/header/header.twig END -->
 
 <main  class="content" id="site-main">
@@ -2118,8 +2086,8 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
 				</div>
 					</div>
 	</div>
-</aside> <!-- BLOCK block-cta-section/callout-version-04.twig END -->
 
+</aside> <!-- BLOCK block-cta-section/callout-version-04.twig END -->
 
     <p>Numerous reasons can be attributed to why the funding gap for women continues to be extremely
         wide. Among them is the fact that venture capital partnerships have historically been built
@@ -4074,8 +4042,10 @@ g:hover .cls-6, g:hover .cls-5, g:focus .cls-6, g:focus .cls-5 {
                     </div>
                     <div class="founder-illustration">
                         <?xml version="1.0" encoding="utf-8"?>
+
 <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+y="0px"
 viewBox="0 0 115 175" style="enable-background:new 0 0 115 175;" xml:space="preserve">
 <style type="text/css">
 .st0{fill:#DBDAEB;}
@@ -5311,9 +5281,9 @@ l2.4,4.2L23.2,43.3z"/>
 				</a>
 					</div>
 	</div>
+
 </aside>
 <!-- CTA Component – Callout Version 01 – END --><!-- BLOCK block-cta-section/callout-version-02.twig END -->
-
 
     <p>If you’re a female founder, it’s important to stay up to date on trends within the complex VC
         ecosystem. <a href="https://www.embroker.com/" target="_blank" rel="noreferrer noopener"
@@ -5327,6 +5297,7 @@ l2.4,4.2L23.2,43.3z"/>
             rel="noreferrer noopener" aria-label=" (opens in a new tab)">insurance policy</a> for
         your
         business.&nbsp;</p>
+
 </div>		</div>
 	</section>
 			<div  id="scope-tailwindcss">
@@ -5376,7 +5347,7 @@ l2.4,4.2L23.2,43.3z"/>
     tw-h-full
 ">
         <div class="tw-flex tw-flex-grow tw-flex-col tw-items-stretch tw-space-y-2">
-        
+
         <h5 class="font-subtitle-1">
                                                     
             <a
@@ -5400,6 +5371,7 @@ l2.4,4.2L23.2,43.3z"/>
             </a>
         </div>
     </div>
+
 </article>
 			</li>
 					<li>
@@ -5414,7 +5386,7 @@ l2.4,4.2L23.2,43.3z"/>
     tw-h-full
 ">
         <div class="tw-flex tw-flex-grow tw-flex-col tw-items-stretch tw-space-y-2">
-        
+
         <h5 class="font-subtitle-1">
                                                     
             <a
@@ -5438,6 +5410,7 @@ l2.4,4.2L23.2,43.3z"/>
             </a>
         </div>
     </div>
+
 </article>
 			</li>
 					<li>
@@ -5452,7 +5425,7 @@ l2.4,4.2L23.2,43.3z"/>
     tw-h-full
 ">
         <div class="tw-flex tw-flex-grow tw-flex-col tw-items-stretch tw-space-y-2">
-        
+
         <h5 class="font-subtitle-1">
                                                     
             <a
@@ -5476,6 +5449,7 @@ l2.4,4.2L23.2,43.3z"/>
             </a>
         </div>
     </div>
+
 </article>
 			</li>
 					<li>
@@ -5490,7 +5464,7 @@ l2.4,4.2L23.2,43.3z"/>
     tw-h-full
 ">
         <div class="tw-flex tw-flex-grow tw-flex-col tw-items-stretch tw-space-y-2">
-        
+
         <h5 class="font-subtitle-1">
                                                     
             <a
@@ -5514,6 +5488,7 @@ l2.4,4.2L23.2,43.3z"/>
             </a>
         </div>
     </div>
+
 </article>
 			</li>
 			</ul>
@@ -5530,7 +5505,7 @@ l2.4,4.2L23.2,43.3z"/>
     </h3>
     <div class="tw-flex tw-flex-row tw-items-center tw-justify-end">
       <div class="tw-max-w-none tw-flex-grow xmd:tw-max-w-[20rem]">
-        
+
                 <div class='gf_browser_gecko gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_2' ><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/blog/female-founders/' data-formid='2' novalidate>
                         <div class='gform-body gform_body'><div id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_2_1" class="gfield gfield--type-email gfield--width-half field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_2_1'>Email</label><div class='ginput_container ginput_container_email'>
                             <input name='input_1' id='input_2_1' type='email' value='' class='large' tabindex='1'  placeholder='Email Address'  aria-invalid="false"  />
@@ -5553,11 +5528,46 @@ l2.4,4.2L23.2,43.3z"/>
                         </div>
 		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
 		                <script>window.addEventListener('DOMContentLoaded', function() {
-gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://website.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://website.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+
+gform.initializeOnLoaded( function() {gformInitSpinner(
+2, 'https://website.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('
+#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback =
+contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('
+#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var
+is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && !
+is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'),
+10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('
+gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('
+#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50
+milliseconds to fix a bug in chrome */ }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(
+window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val()
+;gformInitSpinner( 2, 'https://website.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(
+document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var
+confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content)
+{confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document)
+.trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('
+#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect'])
+{gformRedirect();}}jQuery(document).trigger("
+gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);
+if (event && event.defaultPrevented) { return; } const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );
+if ( gformWrapperDiv ) { const visibilitySpan = document.createElement( "span" ); visibilitySpan.id = "
+gform_visibility_test_2"; gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan ); } const
+visibilityTestDiv = document.getElementById( "gform_visibility_test_2" ); let postRenderFired = false; function
+triggerPostRender() { if ( postRenderFired ) { return; } postRenderFired = true; gform.core.triggerPostRenderEvents( 2,
+current_page ); if ( visibilityTestDiv ) { visibilityTestDiv.parentNode.removeChild( visibilityTestDiv ); } } function
+debounce( func, wait, immediate ) { var timeout; return function() { var context = this, args = arguments; var later =
+function() { timeout = null; if ( !immediate ) func.apply( context, args ); }; var callNow = immediate && !timeout;
+clearTimeout( timeout ); timeout = setTimeout( later, wait ); if ( callNow ) func.apply( context, args ); }; } const
+debouncedTriggerPostRender = debounce( function() { triggerPostRender(); }, 200 ); if ( visibilityTestDiv &&
+visibilityTestDiv.offsetParent === null ) { const observer = new MutationObserver( ( mutations ) => {
+mutations.forEach( ( mutation ) => { if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {
+debouncedTriggerPostRender(); observer.disconnect(); } }); }); observer.observe( document.body, { attributes: true,
+childList: false, subtree: true, attributeFilter: [ 'style', 'class' ], }); } else { triggerPostRender(); } } );} );
 });</script>
 
       </div>
     </div>
+
   </div>
 </section>
 <!-- BLOCK gravity-forms/block-newsletter-signup-section.twig END -->
@@ -5703,6 +5713,7 @@ San Francisco, CA 94131</p>
             </div>
 	    </div>
     </div>
+
 </footer>
 <!-- BLOCK __global-elements/footer/footer.twig END -->
 <script type="speculationrules">
@@ -5712,7 +5723,7 @@ San Francisco, CA 94131</p>
 function flipStart() {
     jQuery('.founder-card').mouseenter(function() {
         jQuery(this).find('.founder-card-inner').addClass('active');
-        
+
     }).mouseleave(function() {
         setTimeout(function() {
             jQuery(this).find('.founder-card-inner').removeClass('active');
@@ -5727,20 +5738,17 @@ function flipStart() {
             jQuery(this).find('.founder-card-inner').removeClass('active');
         }.bind(this), 1000);
     })
-    
-}
-    
 
+}
 
 function flipDelay() {
-    jQuery(this).removeClass('active');
+jQuery(this).removeClass('active');
 }
-
 
 jQuery(flipStart);
 
 function toggleMapInfo() {
-   
+
     let domRank = document.getElementById('map-rank');
     let domName = document.getElementById('map-name');
     let domCapital = document.getElementById('map-capital');
@@ -5881,8 +5889,8 @@ function toggleMapInfo() {
         jQuery(this).children( '.pin-normal' ).css("display", "block");
         jQuery(this).children( '.pin-toggled' ).css("display", "none");
     })
-}
 
+}
 
 jQuery(toggleMapInfo);
 
@@ -6141,7 +6149,6 @@ function toggleGraph() {
         
     })
 
-    
 }
 
 jQuery(toggleGraph);
@@ -6150,62 +6157,62 @@ chartInt = 1;
 chartNext = 2;
 
 jQuery(document).ready(function() {
-    jQuery("#piecharts > .pie-chart-single#1").fadeIn(700);
-    toolTip();
+jQuery("#piecharts > .pie-chart-single#1").fadeIn(700);
+toolTip();
 });
 
-
 function prev() {
-    newChart = chartInt -1;
-    showChart(newChart);
-    if (newChart <= 1) {
-        newChart = 18;
-        showChart(newChart);
-    }
+newChart = chartInt -1;
+showChart(newChart);
+if (newChart <= 1) {
+newChart = 18;
+showChart(newChart);
+}
 }
 
 function next() {
-    newChart = chartInt +1;
-    showChart(newChart);
-    if (newChart > 18) {
-        newChart = 1;
-        showChart(newChart);
-    }
+newChart = chartInt +1;
+showChart(newChart);
+if (newChart > 18) {
+newChart = 1;
+showChart(newChart);
+}
 }
 
 // BUTTON FOCUS --------------------------------------------------------
 
 jQuery('#leftarrow').keydown(function(e) {
-    let keycode = (event.keyCode ? event.keyCode : event.which);
-    if(keycode == '13'){
-        newChart = chartInt -1;
-        showChart(newChart);
-    }
+let keycode = (event.keyCode ? event.keyCode : event.which);
+if(keycode == '13'){
+newChart = chartInt -1;
+showChart(newChart);
+}
 })
 
 jQuery('#rightarrow').keydown(function(e) {
-    let keycode = (event.keyCode ? event.keyCode : event.which);
-    if(keycode == '13'){
-        newChart = chartInt -1;
-        showChart(newChart);
-    } else {
-        jQuery('#rightarrow').css("outline", "0 !important");
-    }
+let keycode = (event.keyCode ? event.keyCode : event.which);
+if(keycode == '13'){
+newChart = chartInt -1;
+showChart(newChart);
+} else {
+jQuery('#rightarrow').css("outline", "0 !important");
+}
 })
 
 function showChart(id) {
-    count = jQuery('#piecharts > .pie-chart-single').id;
-    if (id > count) {
-        id = 1;
-    } else if (id < 1) {
-        id = count;
-    }
+count = jQuery('#piecharts > .pie-chart-single').id;
+if (id > count) {
+id = 1;
+} else if (id < 1) {
+id = count;
+}
 
     jQuery('#piecharts > .pie-chart-single#' + chartInt).fadeOut(400);
     jQuery('#piecharts > .pie-chart-single#'+ id).fadeIn(400);
 
     chartInt = id;
     chartNext = id +1;
+
 }
 
 function toolTip() {
@@ -6293,16 +6300,7 @@ function toolTip() {
     }
     });
 
-
-
 }
-
-
-
-
-
-
-
 
 });</script><!-- Start of Async HubSpot Analytics Code -->
 <script type="text/javascript">
@@ -6381,9 +6379,11 @@ var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"c647e888
           })(window, document, 'script', 'dataLayer', 'GTM-KC6X57M');
         </script>
         <script>window.addEventListener('DOMContentLoaded', function() {
-gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
-                        Placeholders.enable();
-                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(
+formId == 2) {if(typeof Placeholders != 'undefined'){
+Placeholders.enable();
+}} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
 });</script>
 <script>window.addEventListener('DOMContentLoaded', function() {
 gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
@@ -6393,7 +6393,9 @@ if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://website.embroker.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
 <script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.embroker.com\/wp-admin\/admin-ajax.php","nonce":"bb9887c9ce","url":"https:\/\/www.embroker.com\/blog\/female-founders","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://website.embroker.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"98b1f996bb0914af","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.9.1","token":"45629330813e4ae08c9b21ad0fcdd375"}' crossorigin="anonymous"></script>
+
+<script>(function(){var dbpr=100;if(Math.random()*100>100-dbpr){var d="dbbRum",w=window,o=document,a=addEventListener,scr=o.createElement("script");scr.async=!0;w[d]=w[d]||[];w[d].push(["presampling",dbpr]);["error","unhandledrejection"].forEach(function(t){a(t,function(e){w[d].push([t,e])});});scr.src="https://cdn.debugbear.com/WlVycVAt5X4z.js";o.head.appendChild(scr);}})()</script>
+
 </body>
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
