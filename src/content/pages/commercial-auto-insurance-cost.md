@@ -2,8 +2,6 @@
 original_url: https://www.embroker.com/blog/commercial-auto-insurance-cost/
 ---
 
-
-
 <!doctype html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
