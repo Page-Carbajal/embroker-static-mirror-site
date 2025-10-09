@@ -1744,7 +1744,7 @@ Get a Quote
 			 src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&lossy=1&ssl=1"
 				alt=""
 			 class="!tw-m-0 md:tw-size-full"
-			 decoding="async" data-eio-rwidth="160" data-eio-rheight="177" />
+			 loading="lazy" decoding="async" data-eio-rwidth="160" data-eio-rheight="177" />
 		</div>
 				<div class="tw-flex-grow">
 							<em class="tw-block font-heading-4 tw-font-semibold tw-not-italic !tw-mb-4">Tailor a comprehensive insurance package.</em>
@@ -1791,7 +1791,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11936 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&lossy=1&ssl=1" alt="business ethics vs social responsibility" width="1435" height="855" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11936 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&lossy=1&ssl=1" alt="business ethics vs social responsibility" width="1435" height="855" loading="lazy" /></figure>
 
 
 
@@ -1829,7 +1829,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11769 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-02-millenial-stat.gif?strip=all&lossy=1&resize=1434%2C800&ssl=1" alt="Millenial stat" width="1434" height="800" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11769 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-02-millenial-stat.gif?strip=all&lossy=1&resize=1434%2C800&ssl=1" alt="Millenial stat" width="1434" height="800" loading="lazy" /></figure>
 
 
 
@@ -1877,7 +1877,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11770 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-03-ethical-framework.gif?strip=all&lossy=1&resize=1434%2C1997&ssl=1" alt="ethical framework" width="1434" height="1997" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11770 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-03-ethical-framework.gif?strip=all&lossy=1&resize=1434%2C1997&ssl=1" alt="ethical framework" width="1434" height="1997" loading="lazy" /></figure>
 
 
 
@@ -2058,7 +2058,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11941 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&lossy=1&ssl=1" alt="EB-04-Questions-for-startups-1" width="1435" height="990" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11941 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&lossy=1&ssl=1" alt="EB-04-Questions-for-startups-1" width="1435" height="990" loading="lazy" /></figure>
 
 
 
@@ -2096,7 +2096,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="aligncenter wp-image-11773 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&lossy=1&ssl=1" alt="startup social responsibility" width="1435" height="4327" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="aligncenter wp-image-11773 size-full" src="https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&lossy=1&ssl=1" alt="startup social responsibility" width="1435" height="4327" loading="lazy" /></figure>
 
 
 
@@ -2202,7 +2202,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11771 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-social-responsibility.gif?strip=all&lossy=1&resize=1434%2C2295&ssl=1" alt="how important is social responsibility illustration" width="1434" height="2295" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11771 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-social-responsibility.gif?strip=all&lossy=1&resize=1434%2C2295&ssl=1" alt="how important is social responsibility illustration" width="1434" height="2295" loading="lazy" /></figure>
 
 
 
@@ -2242,7 +2242,7 @@ Get a Quote
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11772 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-05-social-responsibility-in-action-scaled-1.gif?strip=all&lossy=1&resize=1250%2C2560&ssl=1" alt="Social responsibility" width="1250" height="2560" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11772 size-full" src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-05-social-responsibility-in-action-scaled-1.gif?strip=all&lossy=1&resize=1250%2C2560&ssl=1" alt="Social responsibility" width="1250" height="2560" loading="lazy" /></figure>
 
 
 
@@ -2589,7 +2589,7 @@ gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://www.embroker
 	<div  class="content-container">
 		<div  class="tw-flex tw-flex-col tw-space-y-12 md:tw-space-y-16">
 			<a href="https://www.embroker.com">
-				<img src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-0.svg" width="350" alt="Embroker logo"/>
+				<img src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-0.svg" width="350" alt="Embroker logo" loading="lazy"/>
 			</a>
 			<div>
 				<div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-x-4 tw-gap-y-6 lg:tw-grid-cols-4">
