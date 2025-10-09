@@ -2,14 +2,18 @@
 original_url: https://www.embroker.com/blog/business-ethics-and-social-responsibility/
 ---
 
+
 <!doctype html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
     <meta charset="UTF-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-	<title>Business Ethics and Social Responsibility for Startups</title><link rel="preload" data-rocket-preload as="image" href="https://www.embroker.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&#038;lossy=1&#038;ssl=1" fetchpriority="high">
-
+	<title>Business Ethics and Social Responsibility for Startups</title><link rel="preload" data-rocket-preload as="image" href="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&#038;lossy=1&#038;ssl=1" fetchpriority="high">
 <meta name="description" content="Ethical values are the building blocks of every startup. Learn how to implement business ethics and social responsibility in your startup. Learn more."/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="https://www.embroker.com/blog/business-ethics-and-social-responsibility/" />
@@ -23,8 +27,8 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
 <meta property="article:tag" content="Startups" />
 <meta property="article:section" content="Blog" />
 <meta property="og:updated_time" content="2024-09-16T08:41:34-07:00" />
-<meta property="og:image" content="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
-<meta property="og:image:secure_url" content="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
+<meta property="og:image" content="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
+<meta property="og:image:secure_url" content="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
 <meta property="og:image:width" content="1435" />
 <meta property="og:image:height" content="855" />
 <meta property="og:image:alt" content="business ethics vs social responsibility" />
@@ -34,12 +38,12 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
 <meta name="twitter:description" content="Ethical values are the building blocks of every startup. Learn how to implement business ethics and social responsibility in your startup. Learn more." />
 <meta name="twitter:site" content="@embroker" />
 <meta name="twitter:creator" content="@embroker" />
-<meta name="twitter:image" content="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
+<meta name="twitter:image" content="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png" />
 <meta name="twitter:label1" content="Written by" />
 <meta name="twitter:data1" content="Embroker Team" />
 <meta name="twitter:label2" content="Time to read" />
 <meta name="twitter:data2" content="17 minutes" />
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.embroker.com/#organization","name":"Embroker","url":"https://www.embroker.com","sameAs":["https://www.facebook.com/embroker","https://twitter.com/embroker"],"logo":{"@type":"ImageObject","@id":"https://www.embroker.com/#logo","url":"https://www.embroker.com/wp-content/uploads/2020/05/embroker-logo.png","contentUrl":"https://www.embroker.com/wp-content/uploads/2020/05/embroker-logo.png","caption":"Embroker","inLanguage":"en-US","width":"1550","height":"225"}},{"@type":"WebSite","@id":"https://www.embroker.com/#website","url":"https://www.embroker.com","name":"Embroker","publisher":{"@id":"https://www.embroker.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png","url":"https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/","name":"Business Ethics and Social Responsibility for Startups","datePublished":"2019-12-19T16:41:18-08:00","dateModified":"2024-09-16T08:41:34-07:00","isPartOf":{"@id":"https://www.embroker.com/#website"},"primaryImageOfPage":{"@id":"https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png"},"inLanguage":"en-US"},{"@type":"Article","subjectOf":[{"@type":"FAQPage","name":"A Startup\u2019s Guide to Business Ethics and Social Responsibility","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/","datePublished":"2019-12-19T16:41:18-08:00","dateModified":"2024-09-16T08:41:34-07:00","mainEntity":[{"@type":"Question","name":"What is Business ethics?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-vs-social-responsibility","acceptedAnswer":{"@type":"Answer","text":"Business ethics is the very broad field of study concerning ethical decision-making in commercial contexts. In short, it\u2019s concerned with not just the social obligations of a business, but also the obligations to its employees, customers, suppliers, and competitors."}},{"@type":"Question","name":"What is Social responsibility?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-vs-social-responsibility","acceptedAnswer":{"@type":"Answer","text":"Social responsibility, while under the umbrella of business ethics, focuses more narrowly on a company\u2019s social obligations. Social responsibility is about the extent to which companies owe something to \u201csociety at large\u201d or feel the duty to give back \u2014 i.e. to those who are not directly involved with the business."}},{"@type":"Question","name":"Why Do Business Ethics and Social Responsibility Matter for Startups?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#why-they-matter","acceptedAnswer":{"@type":"Answer","text":"Now more than ever, how your business conducts itself, ethically speaking, can change the trajectory of success. It is significant for: recruiting top talent (a Bentley University study found that a whopping 86 percent of Millennials consider it a priority to work for a business that conducts itself ethically and responsibly), employee engagement, competitive edge (as more businesses adopt and invest in ethical practices, those that do not will look worse by comparison), and finally - it can build or break a brand."}},{"@type":"Question","name":"How Can Startups Implement Business Ethics?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-implementation","acceptedAnswer":{"@type":"Answer","text":"Putting a strong ethical framework in place is key to making sure your startup doesn\u2019t find itself in hot water down the road. Here's what you should do: 1. Define your core values early on; 2. Integrate ethics into your hiring process; 3. Create a culture of openness and welcome dissent; 4. Lead by example; 5. Craft something everyone can own; 6. Learn from immediate peers or distant model; 7. Know your limits and recognize your own fallibility as a leader; 8. Remember that institutional character is fragile and 9. Establish an independent board."}},{"@type":"Question","name":"How to Prioritize Social Responsibility?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#social-responsibility-priority","acceptedAnswer":{"@type":"Answer","text":"Because one of the biggest challenges startups face is simply getting off the ground, carving out the resources to give back can seem like a daunting prospect or even a luxury reserved for larger corporations. But that doesn\u2019t have to be the case. However, before you start putting together plans for how your startup will integrate social responsibility into its core values, you need to learn how to prioritize it. Even startups that have access to the right assets can find the prioritization of social responsibility a challenge."}},{"@type":"Question","name":"What to Avoid When Creating a Socially Responsible Business Model?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#social-responsibility-model","acceptedAnswer":{"@type":"Answer","text":"One of the best ways to avoid this ethical dilemma is to weave social responsibility initiatives into your core values. Core values will always be the north star that guides your startup. Here are five things you should avoid at all costs when creating a socially responsible business model: Using CSR to accrue \u201cmoral credits\u201d; Using company initiatives to hide or avoid a controversy; Charitable efforts that aren\u2019t related to your core business focus or ethical standards; Using CSR opportunities solely for marketing purposes; Don\u2019t make decisions about social responsibility behind closed doors."}}]}],"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#schema-1140876","isPartOf":{"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage"},"publisher":{"@id":"https://www.embroker.com/#organization"},"image":{"@id":"https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.embroker.com/#organization","name":"Embroker","url":"https://www.embroker.com","sameAs":["https://www.facebook.com/embroker","https://twitter.com/embroker"],"logo":{"@type":"ImageObject","@id":"https://www.embroker.com/#logo","url":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/05/embroker-logo.png","contentUrl":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/05/embroker-logo.png","caption":"Embroker","inLanguage":"en-US","width":"1550","height":"225"}},{"@type":"WebSite","@id":"https://www.embroker.com/#website","url":"https://www.embroker.com","name":"Embroker","publisher":{"@id":"https://www.embroker.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png","url":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/","name":"Business Ethics and Social Responsibility for Startups","datePublished":"2019-12-19T16:41:18-08:00","dateModified":"2024-09-16T08:41:34-07:00","isPartOf":{"@id":"https://www.embroker.com/#website"},"primaryImageOfPage":{"@id":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png"},"inLanguage":"en-US"},{"@type":"Article","subjectOf":[{"@type":"FAQPage","name":"A Startup\u2019s Guide to Business Ethics and Social Responsibility","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/","datePublished":"2019-12-19T16:41:18-08:00","dateModified":"2024-09-16T08:41:34-07:00","mainEntity":[{"@type":"Question","name":"What is Business ethics?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-vs-social-responsibility","acceptedAnswer":{"@type":"Answer","text":"Business ethics is the very broad field of study concerning ethical decision-making in commercial contexts. In short, it\u2019s concerned with not just the social obligations of a business, but also the obligations to its employees, customers, suppliers, and competitors."}},{"@type":"Question","name":"What is Social responsibility?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-vs-social-responsibility","acceptedAnswer":{"@type":"Answer","text":"Social responsibility, while under the umbrella of business ethics, focuses more narrowly on a company\u2019s social obligations. Social responsibility is about the extent to which companies owe something to \u201csociety at large\u201d or feel the duty to give back \u2014 i.e. to those who are not directly involved with the business."}},{"@type":"Question","name":"Why Do Business Ethics and Social Responsibility Matter for Startups?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#why-they-matter","acceptedAnswer":{"@type":"Answer","text":"Now more than ever, how your business conducts itself, ethically speaking, can change the trajectory of success. It is significant for: recruiting top talent (a Bentley University study found that a whopping 86 percent of Millennials consider it a priority to work for a business that conducts itself ethically and responsibly), employee engagement, competitive edge (as more businesses adopt and invest in ethical practices, those that do not will look worse by comparison), and finally - it can build or break a brand."}},{"@type":"Question","name":"How Can Startups Implement Business Ethics?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#business-ethics-implementation","acceptedAnswer":{"@type":"Answer","text":"Putting a strong ethical framework in place is key to making sure your startup doesn\u2019t find itself in hot water down the road. Here's what you should do: 1. Define your core values early on; 2. Integrate ethics into your hiring process; 3. Create a culture of openness and welcome dissent; 4. Lead by example; 5. Craft something everyone can own; 6. Learn from immediate peers or distant model; 7. Know your limits and recognize your own fallibility as a leader; 8. Remember that institutional character is fragile and 9. Establish an independent board."}},{"@type":"Question","name":"How to Prioritize Social Responsibility?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#social-responsibility-priority","acceptedAnswer":{"@type":"Answer","text":"Because one of the biggest challenges startups face is simply getting off the ground, carving out the resources to give back can seem like a daunting prospect or even a luxury reserved for larger corporations. But that doesn\u2019t have to be the case. However, before you start putting together plans for how your startup will integrate social responsibility into its core values, you need to learn how to prioritize it. Even startups that have access to the right assets can find the prioritization of social responsibility a challenge."}},{"@type":"Question","name":"What to Avoid When Creating a Socially Responsible Business Model?","url":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#social-responsibility-model","acceptedAnswer":{"@type":"Answer","text":"One of the best ways to avoid this ethical dilemma is to weave social responsibility initiatives into your core values. Core values will always be the north star that guides your startup. Here are five things you should avoid at all costs when creating a socially responsible business model: Using CSR to accrue \u201cmoral credits\u201d; Using company initiatives to hide or avoid a controversy; Charitable efforts that aren\u2019t related to your core business focus or ethical standards; Using CSR opportunities solely for marketing purposes; Don\u2019t make decisions about social responsibility behind closed doors."}}]}],"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#schema-1140876","isPartOf":{"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage"},"publisher":{"@id":"https://www.embroker.com/#organization"},"image":{"@id":"https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.embroker.com/blog/business-ethics-and-social-responsibility/#webpage"}}]}</script>
 <link rel='dns-prefetch' href='//js.hs-scripts.com' />
 <link rel='dns-prefetch' href='//js.sentry-cdn.com' />
 <link rel='dns-prefetch' href='//esjkj7mdsnf.exactdn.com' />
@@ -49,12 +53,12 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
 .safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{fill:currentColor;height:100%;max-height:100%;max-width:100%;width:100%}
 
 </style>
-<link data-minify="1" rel='stylesheet' id='binarym-style-css' href='https://www.embroker.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/css/style.css?ver=1758929174' media='all' />
-<link data-minify="1" rel='stylesheet' id='embroker-phosphor-fill-css' href='https://www.embroker.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/vendor/phosphor/fill/style.css?ver=1758929174' media='all' />
-<link data-minify="1" rel='stylesheet' id='embroker-phosphor-regular-css' href='https://www.embroker.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/vendor/phosphor/regular/style.css?ver=1758929175' media='all' />
-<link rel='stylesheet' id='embroker-style-css' href='https://www.embroker.com/wp-content/themes/embroker-theme/public/css/index.css?ver=1759947364' media='all' />
-<script src="https://www.embroker.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
-<script src="https://www.embroker.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
+<link data-minify="1" rel='stylesheet' id='binarym-style-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/css/style.css?ver=1758929174' media='all' />
+<link data-minify="1" rel='stylesheet' id='embroker-phosphor-fill-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/vendor/phosphor/fill/style.css?ver=1758929174' media='all' />
+<link data-minify="1" rel='stylesheet' id='embroker-phosphor-regular-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/cache/min/1/wp-content/themes/embroker-theme/public/vendor/phosphor/regular/style.css?ver=1758929175' media='all' />
+<link rel='stylesheet' id='embroker-style-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/css/index.css?ver=1759947364' media='all' />
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
 <link rel="https://api.w.org/" href="https://www.embroker.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.embroker.com/wp-json/wp/v2/posts/7905" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.embroker.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.8.3" />
 <link rel='shortlink' href='https://www.embroker.com/?p=7905' />
@@ -65,14 +69,14 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
 			</script>
 			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
 
-		<link rel="apple-touch-icon" sizes="180x180" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/apple-touch-icon.png?20220928">
-		<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-32x32.png?20220928">
-		<link rel="shortcut icon" type="image/png" sizes="16x16" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-16x16.png?20220928">
-		<link rel="manifest" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/site.webmanifest?20220928">
-		<link rel="shortcut icon" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/favicon.ico?20220928">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/apple-touch-icon.png?20220928">
+		<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-32x32.png?20220928">
+		<link rel="shortcut icon" type="image/png" sizes="16x16" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/favicon-16x16.png?20220928">
+		<link rel="manifest" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/site.webmanifest?20220928">
+		<link rel="shortcut icon" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/favicon.ico?20220928">
 		<meta name="application-name" content="Embroker"/>
 		<meta name="msapplication-TileColor" content="#26257e">
-		<meta name="msapplication-config" content="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/favorites/browserconfig.xml?20220928">
+		<meta name="msapplication-config" content="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/favorites/browserconfig.xml?20220928">
 		<meta name="theme-color" content="#f6f8fb">
 
 					<meta property="og:url" content="https://www.embroker.com/blog/business-ethics-and-social-responsibility/" />
@@ -81,15 +85,14 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
 			<meta property="og:description" content="Ethical values are the building blocks of every startup. Learn how to implement them in your startup and ways to give back when you’re getting off the ground. " />
 			<meta property="og:image" content="" />
 		
-		<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
-
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/bricolage-grotesque/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-light-300.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+		<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/inter/Inter-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/bricolage-grotesque/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-light-300.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/fonts/fontawesome651/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preconnect" href="https://consent.cookiebot.com">
-<link rel="preload" href="https://www.embroker.com/wp-content/themes/embroker-theme/public/vendor/phosphor/regular/Phosphor.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/vendor/phosphor/regular/Phosphor.woff2" as="font" type="font/woff2" crossorigin>
 <noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    <style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.19.4" data-wpr-features="wpr_defer_js wpr_lazyload_images wpr_automatic_lazy_rendering wpr_oci wpr_minify_css wpr_preload_links wpr_desktop" /></head>
 
 <body id="scope-tailwindcss" class="wp-singular post-template-default single single-post postid-7905 single-format-standard wp-theme-embroker-theme tw-bg-white tw-bg-none default-gradient">
@@ -121,9 +124,9 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
                 <a href="https://www.embroker.com">
                     <img
                         class="tw-w-32 md:tw-w-[200px] lg:tw-w-[148px] lazyload"
-                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  alt="Embroker logo" data-src="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-500.svg" decoding="async" /><noscript><img
+                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  alt="Embroker logo" data-src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-500.svg" decoding="async" /><noscript><img
                         class="tw-w-32 md:tw-w-[200px] lg:tw-w-[148px]"
-                        src="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-500.svg"  alt="Embroker logo" data-eio="l" /></noscript>
+                        src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-500.svg"  alt="Embroker logo" data-eio="l" /></noscript>
                 </a>
             </div>
 
@@ -132,6 +135,9 @@ original_url: https://www.embroker.com/blog/business-ethics-and-social-responsib
             
                                                                                                                                                                                 
         <li class="tw-relative">
+
+
+
 
 <button class="
 tw-flex
@@ -156,7 +162,7 @@ data-is-top-level >
 <i
 class="ph ph-caret-down "
 data-inversify="true"
-> </i>
+></i>
 </button>
 <div
 id="menu-industries"
@@ -356,6 +362,9 @@ class="tw-absolute tw-top-full tw-hidden"
                                                                                                                                                                                                                                             
         <li class="tw-relative">
 
+
+
+
 <button class="
 tw-flex
 tw-items-center
@@ -379,7 +388,7 @@ data-is-top-level >
 <i
 class="ph ph-caret-down "
 data-inversify="true"
-> </i>
+></i>
 </button>
 <div
 id="menu-coverages"
@@ -648,6 +657,9 @@ class="tw-absolute tw-top-full tw-hidden"
                 
         <li class="tw-relative">
 
+
+
+
 <a class="
 tw-flex
 tw-items-center
@@ -662,12 +674,16 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/about/ data-is-top-level >
+" href=/about/  data-is-top-level >
 <span>About Us</span>
 </a>
 </li>
 
+
         <li class="tw-relative">
+
+
+
 
 <a class="
 tw-flex
@@ -683,12 +699,16 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/resources/ data-is-top-level >
+" href=/resources/  data-is-top-level >
 <span>Resource Hub</span>
 </a>
 </li>
 
+
         <li class="tw-relative">
+
+
+
 
 <a class="
 tw-flex
@@ -704,7 +724,7 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/claims/ data-is-top-level >
+" href=/claims/  data-is-top-level >
 <span>Claims</span>
 </a>
 </li>
@@ -724,9 +744,7 @@ tw-transition
 	action="/search/"
 	role="search"
 	method="GET"
-
 >
-
 	<div
 		class="tw-h-12 tw-rounded-3xl tw-bg-ui-200 tw-py-2 tw-pl-6 tw-text-ui-500 tw-w-full"
 	>
@@ -750,7 +768,6 @@ tw-transition
 			</button>
 		</div>
 	</div>
-
   </form>                        </div>
                         <button
                             class="button icon small tw-border tw-border-solid tw-border-ui-100 tw-bg-ui-100 tw-text-ui-500 hover:tw-bg-ui-200"
@@ -812,6 +829,9 @@ tw-transition
                                                                                                                                                                                 
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
 
+
+
+
 <button class="
 tw-flex
 tw-items-center
@@ -839,7 +859,7 @@ data-is-top-level >
 <i
 class="ph ph-caret-down ph-lg"
 data-inversify="true"
-> </i>
+></i>
 </button>
 <div
 class="tw-hidden"
@@ -1061,6 +1081,9 @@ data-collapsible="submenu-industries"
                                                                                                                                                                                                                                             
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
 
+
+
+
 <button class="
 tw-flex
 tw-items-center
@@ -1088,7 +1111,7 @@ data-is-top-level >
 <i
 class="ph ph-caret-down ph-lg"
 data-inversify="true"
-> </i>
+></i>
 </button>
 <div
 class="tw-hidden"
@@ -1388,6 +1411,9 @@ data-collapsible="submenu-coverages"
                 
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
 
+
+
+
 <a class="
 tw-flex
 tw-items-center
@@ -1406,12 +1432,16 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/about/ data-is-top-level >
+" href=/about/  data-is-top-level >
 <span>About Us</span>
 </a>
 </li>
 
+
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
+
+
+
 
 <a class="
 tw-flex
@@ -1431,12 +1461,16 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/resources/ data-is-top-level >
+" href=/resources/  data-is-top-level >
 <span>Resource Hub</span>
 </a>
 </li>
 
+
         <li class="tw-border-b tw-border-solid tw-border-ui-200">
+
+
+
 
 <a class="
 tw-flex
@@ -1456,7 +1490,7 @@ data-[is-current]:tw-text-ui-500
 data-[is-current]:tw-bg-violet-200
 data-[is-top-level]:tw-rounded-full
 tw-transition
-" href=/claims/ data-is-top-level >
+" href=/claims/  data-is-top-level >
 <span>Claims</span>
 </a>
 </li>
@@ -1482,7 +1516,6 @@ Get a Quote
             </div>
         </nav>
     </div>
-
 </div><!-- BLOCK __global-elements/header/header.twig END -->
 
 <main  class="content" id="site-main">
@@ -1506,7 +1539,6 @@ Get a Quote
       </div>
     </div>
       </div>
-
 </section>
 
 <!-- BLOCK partials/blog/post-intro.twig END -->
@@ -1531,7 +1563,6 @@ Get a Quote
 				<div class="tw-border-b tw-border-b-ui-300 tw-my-8 tw-f-full tw-w-full"></div>
 
 		<!-- BLOCK __global-elements/social-share-toolbar.twig START -->
-
 <div id="scope-tailwindcss" class="tw-contents">
   <div class="tw-space-y-4">
     <p class="font-body-1">Share this article</p>
@@ -1600,6 +1631,7 @@ Get a Quote
   </div>
 </div><!-- BLOCK __global-elements/social-share-toolbar.twig END -->
 
+
 		 			<div class="tw-border-b tw-border-b-ui-300 tw-my-8 tw-f-full tw-w-full"></div>
 
 		<div class="@sm:tw-flex tw-gap-8 @sm:tw-items-start tw-items-center">
@@ -1613,7 +1645,6 @@ Get a Quote
         <p class="font-body-1">Tell us a little about your business and we’ll create a coverage package that fits your needs, with a price you can count on.</p>
         <a href="https://app.embroker.com/signup" class="button primary">Get a Quote</a>
     </div>
-
 </div>	</div>
       <div class="tw-flex-grow tw-mt-8 lg:tw-mt-0">
         <div class="article-view tw-@container">
@@ -1627,7 +1658,7 @@ Get a Quote
 color: #6673ff;
 }
 
-.ethics-toc, .ethics-toc ul {
+.ethics-toc, .ethics-toc ul  {
 list-style: none;
 }
 
@@ -1644,6 +1675,7 @@ line-height: 30px;
 font-weight: 300;
 }
 
+
 .ethics-toc li {
 padding-bottom: 12px !important;
 }
@@ -1654,6 +1686,7 @@ padding-top: 5px !important;
 padding-bottom: 0px !important;
 padding-left: 25px !important;
 }
+
 
 .ethics-toc a {
 color: black;
@@ -1672,6 +1705,7 @@ position: relative;
 top: -120px;
 visibility: hidden;
 }
+
 
 @media(max-width: 500px) {
 .ethics-toc-line {
@@ -1703,8 +1737,8 @@ border-bottom: 1px solid #6673ff;
 			 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACxAQAAAABrPou+AAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tCy+gAAAA4GQOhQABjDooCwAAAABJRU5ErkJggg=="
 				alt=""
 			 class="!tw-m-0 md:tw-size-full lazyload"
-			 data-src="https://www.embroker.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&lossy=1&ssl=1" decoding="async" data-eio-rwidth="160" data-eio-rheight="177" /><noscript><img
-				src="https://www.embroker.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&amp;lossy=1&amp;ssl=1"
+			 data-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&lossy=1&ssl=1" decoding="async" data-eio-rwidth="160" data-eio-rheight="177" /><noscript><img
+				src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2024/09/frame_1321318687-1-1-min.png?strip=all&amp;lossy=1&amp;ssl=1"
 				alt=""
 				class="!tw-m-0 md:tw-size-full"
 			 data-eio="l" /></noscript>
@@ -1722,7 +1756,6 @@ border-bottom: 1px solid #6673ff;
 				</div>
 					</div>
 	</div>
-
 </aside> <!-- BLOCK block-cta-section/callout-version-04.twig END -->
 
 
@@ -1739,8 +1772,7 @@ border-bottom: 1px solid #6673ff;
 
 
 
-<h2 class="wp-block-heading" id="business-ethics-vs-social-responsibility"><span id="business_ethics_vs_social_responsibility">
-Business Ethics vs. Social Responsibility</span></h2>
+<h2 class="wp-block-heading" id="business-ethics-vs-social-responsibility"><span id="business_ethics_vs_social_responsibility">Business Ethics vs. Social Responsibility</span></h2>
 
 
 
@@ -1756,7 +1788,7 @@ Business Ethics vs. Social Responsibility</span></h2>
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11936 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%20855'%3E%3C/svg%3E" alt="business ethics vs social responsibility" width="1435" height="855" data-lazy-srcset="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-300x179.png?strip=all&amp;lossy=1&amp;ssl=1 300w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-1024x610.png?strip=all&amp;lossy=1&amp;ssl=1 1024w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-768x458.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&lossy=1&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11936 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%20855'%3E%3C/svg%3E" alt="business ethics vs social responsibility" width="1435" height="855" data-lazy-srcset="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-300x179.png?strip=all&amp;lossy=1&amp;ssl=1 300w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-1024x610.png?strip=all&amp;lossy=1&amp;ssl=1 1024w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1-768x458.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-01-Business-ethics-vs-social-responsibility-1.png?strip=all&lossy=1&ssl=1" /></figure>
 
 
 
@@ -1778,8 +1810,7 @@ Business Ethics vs. Social Responsibility</span></h2>
 
 
 
-<h3 class="wp-block-heading" id="why-they-matter"><span id="why_do_business_ethics_and_social_responsibility_matter_for_startups">
-Why Do Business Ethics and Social Responsibility Matter for Startups?</span></h3>
+<h3 class="wp-block-heading" id="why-they-matter"><span id="why_do_business_ethics_and_social_responsibility_matter_for_startups">Why Do Business Ethics and Social Responsibility Matter for Startups?</span></h3>
 
 
 
@@ -1795,7 +1826,7 @@ Why Do Business Ethics and Social Responsibility Matter for Startups?</span></h3
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11769 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%20800'%3E%3C/svg%3E" alt="Millenial stat" width="1434" height="800" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-02-millenial-stat.gif?strip=all&lossy=1&resize=1434%2C800&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11769 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%20800'%3E%3C/svg%3E" alt="Millenial stat" width="1434" height="800" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-02-millenial-stat.gif?strip=all&lossy=1&resize=1434%2C800&ssl=1" /></figure>
 
 
 
@@ -1831,8 +1862,7 @@ Why Do Business Ethics and Social Responsibility Matter for Startups?</span></h3
 
 
 
-<h2 class="wp-block-heading" id="business-ethics-implementation"><span id="how_startups_can_implement_business_ethics">
-How Startups Can Implement Business Ethics</span></h2>
+<h2 class="wp-block-heading" id="business-ethics-implementation"><span id="how_startups_can_implement_business_ethics">How Startups Can Implement Business Ethics</span></h2>
 
 
 
@@ -1844,7 +1874,7 @@ How Startups Can Implement Business Ethics</span></h2>
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11770 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%201997'%3E%3C/svg%3E" alt="ethical framework" width="1434" height="1997" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-03-ethical-framework.gif?strip=all&lossy=1&resize=1434%2C1997&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11770 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%201997'%3E%3C/svg%3E" alt="ethical framework" width="1434" height="1997" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-03-ethical-framework.gif?strip=all&lossy=1&resize=1434%2C1997&ssl=1" /></figure>
 
 
 
@@ -1955,15 +1985,13 @@ How Startups Can Implement Business Ethics</span></h2>
 				</a>
 					</div>
 	</div>
-
 </aside>
 <!-- CTA Component – Callout Version 01 – END --><!-- BLOCK block-cta-section/callout-version-02.twig END -->
 
 
 
 
-<h2 class="wp-block-heading" id="3"><span id="proof_that_business_ethics_can_set_a_company_apart">Proof That Business
-Ethics Can Set a Company Apart</span></h2>
+<h2 class="wp-block-heading" id="3"><span id="proof_that_business_ethics_can_set_a_company_apart">Proof That Business Ethics Can Set a Company Apart</span></h2>
 
 
 
@@ -2015,8 +2043,7 @@ Ethics Can Set a Company Apart</span></h2>
 
 
 
-<h2 class="wp-block-heading" id="social-responsibility-priority"><span id="how_to_prioritize_social_responsibility">How
-to Prioritize Social Responsibility</span></h2>
+<h2 class="wp-block-heading" id="social-responsibility-priority"><span id="how_to_prioritize_social_responsibility">How to Prioritize Social Responsibility</span></h2>
 
 
 
@@ -2028,7 +2055,7 @@ to Prioritize Social Responsibility</span></h2>
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11941 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%20990'%3E%3C/svg%3E" alt="EB-04-Questions-for-startups-1" width="1435" height="990" data-lazy-srcset="https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-300x207.png?strip=all&amp;lossy=1&amp;ssl=1 300w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-1024x706.png?strip=all&amp;lossy=1&amp;ssl=1 1024w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-768x530.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&lossy=1&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11941 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%20990'%3E%3C/svg%3E" alt="EB-04-Questions-for-startups-1" width="1435" height="990" data-lazy-srcset="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-300x207.png?strip=all&amp;lossy=1&amp;ssl=1 300w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-1024x706.png?strip=all&amp;lossy=1&amp;ssl=1 1024w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1-768x530.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-Questions-for-startups-1.png?strip=all&lossy=1&ssl=1" /></figure>
 
 
 
@@ -2046,8 +2073,7 @@ to Prioritize Social Responsibility</span></h2>
 
 
 
-<h2 class="wp-block-heading" id="5"><span id="startup_social_responsibility_how_to_give_back_when_youre_getting_off_the_ground">
-Startup Social Responsibility: How to Give Back When You’re Getting Off the Ground</span></h2>
+<h2 class="wp-block-heading" id="5"><span id="startup_social_responsibility_how_to_give_back_when_youre_getting_off_the_ground">Startup Social Responsibility: How to Give Back When You’re Getting Off the Ground</span></h2>
 
 
 
@@ -2067,7 +2093,7 @@ Startup Social Responsibility: How to Give Back When You’re Getting Off the Gr
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="aligncenter wp-image-11773 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%204327'%3E%3C/svg%3E" alt="startup social responsibility" width="1435" height="4327" data-lazy-srcset="https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-99x300.png?strip=all&amp;lossy=1&amp;ssl=1 99w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-340x1024.png?strip=all&amp;lossy=1&amp;ssl=1 340w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-768x2316.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-509x1536.png?strip=all&amp;lossy=1&amp;ssl=1 509w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-679x2048.png?strip=all&amp;lossy=1&amp;ssl=1 679w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=287&amp;ssl=1 287w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&lossy=1&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="aligncenter wp-image-11773 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201435%204327'%3E%3C/svg%3E" alt="startup social responsibility" width="1435" height="4327" data-lazy-srcset="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;ssl=1 1435w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-99x300.png?strip=all&amp;lossy=1&amp;ssl=1 99w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-340x1024.png?strip=all&amp;lossy=1&amp;ssl=1 340w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-768x2316.png?strip=all&amp;lossy=1&amp;ssl=1 768w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-509x1536.png?strip=all&amp;lossy=1&amp;ssl=1 509w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1-679x2048.png?strip=all&amp;lossy=1&amp;ssl=1 679w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=287&amp;ssl=1 287w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=574&amp;ssl=1 574w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=861&amp;ssl=1 861w, https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&amp;lossy=1&amp;w=1148&amp;ssl=1 1148w" data-lazy-sizes="(max-width: 1435px) 100vw, 1435px" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-IG-01-How-to-give-back-1.png?strip=all&lossy=1&ssl=1" /></figure>
 
 
 
@@ -2167,14 +2193,13 @@ Startup Social Responsibility: How to Give Back When You’re Getting Off the Gr
 
 
 
-<h2 class="wp-block-heading" id="6"><span id="proof_social_responsibility_can_set_a_startup_apart">Proof Social
-Responsibility Can Set a Startup Apart</span></h2>
+<h2 class="wp-block-heading" id="6"><span id="proof_social_responsibility_can_set_a_startup_apart">Proof Social Responsibility Can Set a Startup Apart</span></h2>
 
 
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11771 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%202295'%3E%3C/svg%3E" alt="how important is social responsibility illustration" width="1434" height="2295" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-04-social-responsibility.gif?strip=all&lossy=1&resize=1434%2C2295&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11771 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201434%202295'%3E%3C/svg%3E" alt="how important is social responsibility illustration" width="1434" height="2295" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-04-social-responsibility.gif?strip=all&lossy=1&resize=1434%2C2295&ssl=1" /></figure>
 
 
 
@@ -2214,12 +2239,11 @@ Responsibility Can Set a Startup Apart</span></h2>
 
 
 
-<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11772 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201250%202560'%3E%3C/svg%3E" alt="Social responsibility" width="1250" height="2560" data-lazy-src="https://www.embroker.com/wp-content/uploads/2020/06/EB-05-social-responsibility-in-action-scaled-1.gif?strip=all&lossy=1&resize=1250%2C2560&ssl=1" /></figure>
+<figure class="wp-block-image"><img decoding="async" class="alignnone wp-image-11772 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201250%202560'%3E%3C/svg%3E" alt="Social responsibility" width="1250" height="2560" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/uploads/2020/06/EB-05-social-responsibility-in-action-scaled-1.gif?strip=all&lossy=1&resize=1250%2C2560&ssl=1" /></figure>
 
 
 
-<h2 class="wp-block-heading" id="social-responsibility-model"><span id="what_to_avoid_when_creating_a_socially_responsible_business_model">
-What to Avoid When Creating a Socially Responsible Business Model</span></h2>
+<h2 class="wp-block-heading" id="social-responsibility-model"><span id="what_to_avoid_when_creating_a_socially_responsible_business_model">What to Avoid When Creating a Socially Responsible Business Model</span></h2>
 
 
 
@@ -2309,7 +2333,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
 				</a>
 					</div>
 	</div>
-
 </aside>
 <!-- CTA Component – Callout Version 01 – END --><!-- BLOCK block-cta-section/callout-version-02.twig END -->
 
@@ -2321,7 +2344,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
         </div>
       </div>
     </div>
-
   </div>
 </section><!-- BLOCK partials/blog/blog-with-toc.twig END -->
 		<div data-wpr-lazyrender="1" id="scope-tailwindcss">
@@ -2395,7 +2417,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
             </a>
         </div>
     </div>
-
 </article>
 			</li>
 					<li>
@@ -2434,7 +2455,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
             </a>
         </div>
     </div>
-
 </article>
 			</li>
 					<li>
@@ -2473,7 +2493,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
             </a>
         </div>
     </div>
-
 </article>
 			</li>
 					<li>
@@ -2512,7 +2531,6 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
             </a>
         </div>
     </div>
-
 </article>
 			</li>
 			</ul>
@@ -2552,60 +2570,11 @@ What to Avoid When Creating a Socially Responsible Business Model</span></h2>
                         </div>
 		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
 		                <script>window.addEventListener('DOMContentLoaded', function() {
-
-gform.initializeOnLoaded( function() {gformInitSpinner(
-2, 'https://www.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_2')
-.on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('
-GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var
-is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect =
-contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && !
-is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'),
-
-10)
-    + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('
-      gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('
-      #gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50
-      milliseconds to fix a bug in chrome */ }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(
-      window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2')
-      .val()
-      ;gformInitSpinner( 2, 'https://www.embroker.com/wp-content/plugins/gravityforms/images/spinner.svg', true )
-      ;jQuery(
-      document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect)
-      {var
-      confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content)
-      {confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document)
-      .trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('
-      #gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect'])
-      {gformRedirect();}}jQuery(document).trigger("
-      gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);
-      if (event && event.defaultPrevented) { return; } const gformWrapperDiv = document.getElementById( "
-      gform_wrapper_2" );
-      if ( gformWrapperDiv ) { const visibilitySpan = document.createElement( "span" ); visibilitySpan.id = "
-      gform_visibility_test_2"; gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan ); } const
-      visibilityTestDiv = document.getElementById( "gform_visibility_test_2" ); let postRenderFired = false; function
-      triggerPostRender() { if ( postRenderFired ) { return; } postRenderFired = true;
-      gform.core.triggerPostRenderEvents( 2,
-      current_page ); if ( visibilityTestDiv ) { visibilityTestDiv.parentNode.removeChild( visibilityTestDiv ); } }
-      function
-      debounce( func, wait, immediate ) { var timeout; return function() { var context = this, args = arguments; var
-      later =
-      function() { timeout = null; if ( !immediate ) func.apply( context, args ); }; var callNow = immediate && !
-      timeout;
-      clearTimeout( timeout ); timeout = setTimeout( later, wait ); if ( callNow ) func.apply( context, args ); }; }
-      const
-      debouncedTriggerPostRender = debounce( function() { triggerPostRender(); }, 200 ); if ( visibilityTestDiv &&
-      visibilityTestDiv.offsetParent === null ) { const observer = new MutationObserver( ( mutations ) => {
-      mutations.forEach( ( mutation ) => { if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !==
-      null ) {
-      debouncedTriggerPostRender(); observer.disconnect(); } }); }); observer.observe( document.body, { attributes:
-      true,
-      childList: false, subtree: true, attributeFilter: [ 'style', 'class' ], }); } else {
-      triggerPostRender(); } } );} );
-      });</script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+});</script>
 
       </div>
-</div>
-
+    </div>
   </div>
 </section>
 <!-- BLOCK gravity-forms/block-newsletter-signup-section.twig END -->
@@ -2617,7 +2586,7 @@ is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseI
 	<div  class="content-container">
 		<div  class="tw-flex tw-flex-col tw-space-y-12 md:tw-space-y-16">
 			<a href="https://www.embroker.com">
-				<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%200'%3E%3C/svg%3E" width="350" alt="Embroker logo" data-lazy-src="https://www.embroker.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-0.svg"/>
+				<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%200'%3E%3C/svg%3E" width="350" alt="Embroker logo" data-lazy-src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/images/next/logo-ui-0.svg"/>
 			</a>
 			<div>
 				<div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-x-4 tw-gap-y-6 lg:tw-grid-cols-4">
@@ -2751,12 +2720,7 @@ San Francisco, CA 94131</p>
             </div>
 	    </div>
     </div>
-
 </footer>
-<script>
-var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
-</script>
-
 <!-- BLOCK __global-elements/footer/footer.twig END -->
 <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/embroker-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
@@ -2771,13 +2735,13 @@ e.parentNode.insertBefore(n, e);
 })(document,"script","hs-analytics",300000);
 </script>
 <!-- End of Async HubSpot Analytics Code -->
-<link data-minify="1" rel='stylesheet' id='gform_basic-css' href='https://www.embroker.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=1758929164' media='all' />
-<link rel='stylesheet' id='gform_theme_components-css' href='https://www.embroker.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.14' media='all' />
-<link data-minify="1" rel='stylesheet' id='gform_theme-css' href='https://www.embroker.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=1758929164' media='all' />
+<link data-minify="1" rel='stylesheet' id='gform_basic-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=1758929164' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.14' media='all' />
+<link data-minify="1" rel='stylesheet' id='gform_theme-css' href='https://esjkj7mdsnf.exactdn.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=1758929164' media='all' />
 <script id="eio-lazy-load-js-before">
 var eio_lazy_vars = {"exactdn_domain":"esjkj7mdsnf.exactdn.com","skip_autoscale":0,"threshold":0,"use_dpr":1};
 </script>
-<script src="https://www.embroker.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=820" id="eio-lazy-load-js" async data-wp-strategy="async"></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=820" id="eio-lazy-load-js" async data-wp-strategy="async"></script>
 <script id="leadin-script-loader-js-js-extra">
 var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"11.3.16"};
 </script>
@@ -2785,7 +2749,7 @@ var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVers
 <script id="wpsi-search-navigation-js-extra">
 var wpsi_search_navigation = {"ajaxurl":"https:\/\/www.embroker.com\/wp-admin\/admin-ajax.php","token":"a375d732ee"};
 </script>
-<script src="https://www.embroker.com/wp-content/plugins/wp-search-insights/assets/js/search-navigation.js?ver=2.1" id="wpsi-search-navigation-js" data-rocket-defer defer></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/wp-search-insights/assets/js/search-navigation.js?ver=2.1" id="wpsi-search-navigation-js" data-rocket-defer defer></script>
 <script id="rocket-browser-checker-js-after">
 "use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
 </script>
@@ -2797,30 +2761,30 @@ var RocketPreloadLinksConfig = {"excludeUris":"\/wp-content\/themes\/embroker-th
 "use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
 }());
 </script>
-<script src="https://www.embroker.com/wp-content/themes/embroker-theme/public/js/init.min.js?ver=1759947365" id="js-init-js" defer data-wp-strategy="defer"></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-content/themes/embroker-theme/public/js/init.min.js?ver=1759947365" id="js-init-js" defer data-wp-strategy="defer"></script>
 <script src="https://js.sentry-cdn.com/615098f140e167246a126e0e94cd410e.min.js" id="sentry-session-replay-js" defer data-wp-strategy="defer"></script>
-<script src="https://www.embroker.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js" data-rocket-defer defer></script>
-<script src="https://www.embroker.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
-<script src="https://www.embroker.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js" data-rocket-defer defer></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
-<script src="https://www.embroker.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js" data-rocket-defer defer></script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.14" id="gform_json-js"></script>
+<script src="https://esjkj7mdsnf.exactdn.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js" data-rocket-defer defer></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.14" id="gform_json-js"></script>
 <script id="gform_gravityforms-js-extra">
 var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
 var gf_legacy_multi = [];
 var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.embroker.com\/wp-content\/plugins\/gravityforms\/images"}};
 var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.embroker.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.embroker.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"c647e88874e7a462c74bec342fee1cf2","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
 </script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.14" id="gform_gravityforms-js"></script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.14" id="gform_placeholder-js"></script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=380b7a5ec0757c78876bc8a59488f2f3" id="gform_gravityforms_utils-js"></script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=21e5a4db1670166692ac5745329bfc80" id="gform_gravityforms_theme_vendors-js"></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.14" id="gform_gravityforms-js"></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.14" id="gform_placeholder-js"></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=380b7a5ec0757c78876bc8a59488f2f3" id="gform_gravityforms_utils-js"></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=21e5a4db1670166692ac5745329bfc80" id="gform_gravityforms_theme_vendors-js"></script>
 <script id="gform_gravityforms_theme-js-extra">
 var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"c647e88874e7a462c74bec342fee1cf2"},"ajax":{"ajaxurl":"https:\/\/www.embroker.com\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"cad3c64a2f","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https:\/\/www.embroker.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"9bdcb52541"};
 </script>
-<script defer='defer' src="https://www.embroker.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=b436459e6f25ebcd9e95ea18e1a35e19" id="gform_gravityforms_theme-js"></script>
+<script defer='defer' src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=b436459e6f25ebcd9e95ea18e1a35e19" id="gform_gravityforms_theme-js"></script>
         <!-- Google Tag Manager -->
         <noscript>
             <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KC6X57M"
@@ -2838,9 +2802,7 @@ var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"c647e888
           })(window, document, 'script', 'dataLayer', 'GTM-KC6X57M');
         </script>
         <script>window.addEventListener('DOMContentLoaded', function() {
-
-gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(
-formId == 2) {if(typeof Placeholders != 'undefined'){
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
 Placeholders.enable();
 }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
 });</script>
@@ -2850,7 +2812,7 @@ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_r
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.embroker.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://esjkj7mdsnf.exactdn.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"45629330813e4ae08c9b21ad0fcdd375","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
